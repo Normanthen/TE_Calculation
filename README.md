@@ -1,2 +1,3 @@
 # TE_Calculation
-My semi-analitic calculations of Thermoelectric (TE) Properties of Nodal Line Semimetals
+My alternative form of semi-analitic calculations of Thermoelectric (TE) Properties of Type-I Nodal Line Semimetals
+
