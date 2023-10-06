@@ -13,10 +13,8 @@
   degauss =   1.4699723600d-02
   ecutrho =   2.8000000000d+02
   !ecutwfc =   3.5000000000d+01
-  ecutwfc = 40
+  ecutwfc = 150
   ibrav = 0
-  !a = 3.2692
-  !c = 6.52728472
   nat = 4
   nosym = .true.
   nspin = 2
