@@ -1,7 +1,7 @@
 #! /bin/bash
-# Density of states (DOS) of Graphene
+# Density of states (DOS) of TiS
 #####################################
 
-mpirun -np 4 pw.x < scf.in > scf.out
-mpirun -np 4 pw.x < nscf.in > nscf.out
-mpirun -np 4 dos.x < dos.in > dos.out
+mpirun -np 4 pw.x < TiS.scf.in > TiS.scf.out
+mpirun -np 4 pw.x < TiS.nscf.in > TiS.nscf.out
+mpirun -np 4 dos.x < TiS.dos.in > TiS.dos.out
