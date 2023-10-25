@@ -30,7 +30,8 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg360" />
+     inkscape:current-layer="svg360"
+     showguides="false" />
   <defs
      id="defs84">
     <g
@@ -607,6 +608,39 @@
      fill="rgb(100%, 100%, 100%)"
      fill-opacity="1"
      id="rect84" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.75"
+     x="56.285156"
+     y="315.72949"
+     id="text5-4"><tspan
+       sodipodi:role="line"
+       id="tspan5-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
+       x="56.285156"
+       y="315.72949">(d)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.75"
+     x="314.28516"
+     y="314.97949"
+     id="text5-3"><tspan
+       sodipodi:role="line"
+       id="tspan5-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
+       x="314.28516"
+       y="314.97949">(e)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.75"
+     x="591.78516"
+     y="314.22949"
+     id="text5-2"><tspan
+       sodipodi:role="line"
+       id="tspan5-43"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
+       x="591.78516"
+       y="314.22949">(f)</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(100%, 100%, 100%)"
@@ -5308,7 +5342,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 113.01759,173.81326 36.63329,0"
+     d="m 113.01759,173.81326 h 36.63329"
      id="path217"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0" />
@@ -5318,4 +5352,37 @@
      id="path218"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.75"
+     x="24.280107"
+     y="36.633289"
+     id="text5"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
+       x="24.280107"
+       y="36.633289">(a)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.75"
+     x="326.76825"
+     y="36.605675"
+     id="text5-1"><tspan
+       sodipodi:role="line"
+       id="tspan5-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
+       x="326.76825"
+       y="36.605675">(b)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.75"
+     x="583.73547"
+     y="35.73613"
+     id="text6"><tspan
+       sodipodi:role="line"
+       id="tspan6"
+       style="stroke-width:0.75"
+       x="583.73547"
+       y="35.73613">(c)</tspan></text>
 </svg>
