@@ -1,3 +1,3 @@
 # TE_Calculation
-My alternative branch of semi-analitic calculations of Thermoelectric (TE) Properties of Type-I Nodal-Line Semimetals  and Type II Nodal-Line Semimetals
+My current working branch on my works of semi-analitic calculations of Thermoelectric (TE) Properties of Nodal-Line Semimetals $\mathrm{TiS}$ and $\mathrm{Mg{3}Bi_{2}}$
 
