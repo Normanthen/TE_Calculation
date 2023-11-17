@@ -1,0 +1,7 @@
+&DOS
+ prefix='m2',
+ outdir='./out/',
+ fildos='Mg3Bi2.dos'
+ emin=-5.0,
+ emax=25.0,
+/

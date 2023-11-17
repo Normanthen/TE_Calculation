@@ -1,0 +1,7 @@
+&DOS
+ outdir = '../out/',
+ prefix = 'TiS',
+ fildos = 'TiS.dos'
+ emin = -9.0
+ emax = 16.0
+/
