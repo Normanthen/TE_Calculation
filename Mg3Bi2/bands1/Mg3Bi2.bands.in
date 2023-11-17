@@ -1,5 +1,0 @@
-&BANDS
- outdir = '../out/',
- prefix = 'm2',
- filband = 'Mg3Bi2.bands'
-/
