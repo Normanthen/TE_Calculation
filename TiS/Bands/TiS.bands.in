@@ -1,0 +1,5 @@
+&BANDS
+ outdir = './out/',
+ prefix = 'TiS',
+ filband = 'TiS.bands'
+/
